@@ -50,5 +50,6 @@ Build strong Python intuition before touching DE-specific tools
 Write clean, readable code — not just code that works
 Document the learning process openly
 
-
+How to Run
+git clone https://github.com/akib-mahfuz/Basic-Python-Problems.git
 
