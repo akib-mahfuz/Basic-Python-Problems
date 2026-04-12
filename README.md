@@ -1,4 +1,4 @@
-<img width="137" height="39" alt="image" src="https://github.com/user-attachments/assets/a6f77923-85d7-40af-a80d-b051feac44ad" />**Python Foundations — 110 Problems**
+**Python Foundations — 110 Problems**
 A structured practice repository covering Python fundamentals, solved as the first step of my journey toward Data Engineering.
 
 Why This Exists
