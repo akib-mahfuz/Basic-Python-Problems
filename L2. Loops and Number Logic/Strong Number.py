@@ -1,0 +1,22 @@
+# Check strong number
+# Strong Numbers are the numbers whose sum of factorial of digits is equal to the original number.
+
+n = int(input("Enter a number: "))
+
+temp = n
+total = 0
+
+while temp > 0:
+    digit = temp % 10
+
+    fact = 1
+    for i in range(1, digit + 1):
+        fact *= i
+
+    total += fact
+    temp //= 10
+
+if total == n:
+    print(f"{n} is a Strong Number")
+else:
+    print(f"{n} is not a Strong Number")
